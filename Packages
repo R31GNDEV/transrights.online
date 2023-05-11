@@ -1,0 +1,14 @@
+Package: online.transrights.koatzy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Kota
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: Files/koatzy/Koatzy.deb
+Size: 78628100
+MD5sum: e1c573f0f7e626e93114a2ed20ccdcfc
+SHA1: 88052a2a419e477163fc9b44256c5044c838c8dd
+SHA256: 6c30f4c0564cf7193551a0a2c64c5901daabbe78681a4d9d99b35438207bfc72
+Section: Themes
+Description: A theme with beautiful glass icons! Still being fixed for Rootless.
+Author: Kota
+Name: Koatzy
