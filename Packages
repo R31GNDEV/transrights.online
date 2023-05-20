@@ -4,11 +4,11 @@ Architecture: iphoneos-arm64
 Maintainer: Kota
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: Files/koatzy/Koatzy.deb
-Size: 77334140
-MD5sum: 748296099d167167e29ac8db78047e49
-SHA1: ba936d5f8063c1618b3d03d32395759c73399c6e
-SHA256: 319ed6f2d6e5230337bd41d3e6ba0c957ea7c319941b383f9984e93c5c008a3b
+Size: 75438272
+MD5sum: 48a461cf5785787b0d9b597fc9a3481d
+SHA1: c26f9ea5c0e3d0d20f2bd7d67eb621e5f792e0a6
+SHA256: 4cfce63b7c29bc3ab3e13e8211d971496bd8963e2fcc680eb3530a9f3bcd4b72
 Section: Themes
-Description: A theme with beautiful glass icons! Still being fixed for Rootless.
+Description: A theme with beautiful glass icons!
 Author: Kota
 Name: Koatzy
