@@ -5,9 +5,9 @@ Maintainer: Kota
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: Files/koatzy/Koatzy.deb
 Size: 78628100
-MD5sum: d4a94cb827b97e12bcab3e027c735360
-SHA1: cc26956d84958db6b4ae1be210aac321c1cd51ce
-SHA256: 7b8c82697c1a04c2ef55221b3f7a4f0fa18c9bc9f15712792351284fbb77e1eb
+MD5sum: 748296099d167167e29ac8db78047e49
+SHA1: ba936d5f8063c1618b3d03d32395759c73399c6e
+SHA256: 319ed6f2d6e5230337bd41d3e6ba0c957ea7c319941b383f9984e93c5c008a3b
 Section: Themes
 Description: A theme with beautiful glass icons! Still being fixed for Rootless.
 Author: Kota
