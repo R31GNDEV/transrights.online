@@ -13,7 +13,7 @@ Description: A theme with beautiful glass icons! For rootless devices only.
 Author: Kota
 Name: Koatzy
 
-Package: online.transrights.koatzy
+Package: online.transrights.koatzyrootful
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Kota
