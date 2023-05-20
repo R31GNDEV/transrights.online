@@ -1,13 +1,13 @@
 Package: online.transrights.koatzy
-Version: 1.0
-Architecture: iphoneos-arm64
+Version: 1.1
+Architecture: iphoneos-arm64 | iphoneos-arm
 Maintainer: Kota
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: Files/koatzy/Koatzy.deb
-Size: 75438272
-MD5sum: 48a461cf5785787b0d9b597fc9a3481d
-SHA1: c26f9ea5c0e3d0d20f2bd7d67eb621e5f792e0a6
-SHA256: 4cfce63b7c29bc3ab3e13e8211d971496bd8963e2fcc680eb3530a9f3bcd4b72
+Size: 75438268
+MD5sum: c32331d8431f3c5b51d73ab2a67ee82d
+SHA1: a0723c6a8e27e0704b34bd2e5f022e64e732ff7f
+SHA256: 2815574d3f7d721a2d47da69fda7b6ba9f340506ab2551476dcdbdd8389739a1
 Section: Themes
 Description: A theme with beautiful glass icons!
 Author: Kota
