@@ -19,10 +19,10 @@ Architecture: iphoneos-arm
 Maintainer: Kota
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: Files/koatzyrootful/KoatzyRootful.deb
-Size: 78628100
-MD5sum: e1c573f0f7e626e93114a2ed20ccdcfc
-SHA1: 88052a2a419e477163fc9b44256c5044c838c8dd
-SHA256: 6c30f4c0564cf7193551a0a2c64c5901daabbe78681a4d9d99b35438207bfc72
+Size: 79207056
+MD5sum: 381173a6c650f74eec8e18ca4d274913
+SHA1: 95158ddd969cc0fe45cce0106e7b14f9da118c1b
+SHA256: 2799f505cf8f05fe82aabe70633cd26040136dcd72cf5c9e8a539e41f13f43bb
 Section: Themes
 Description: A theme with beautiful glass icons! For rootful devices only.
 Author: Kota
