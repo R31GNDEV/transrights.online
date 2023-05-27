@@ -31,7 +31,7 @@ Name: Koatzy
 Package: online.transrights.pinkclock
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: Kota
+Maintainer: Kota & Snoolie
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: Files/pinkclock/online.transrights.pinkclock_1.0.0-1+debug_iphoneos-arm64.deb
 Size: 4276
