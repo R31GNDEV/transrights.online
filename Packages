@@ -27,3 +27,18 @@ Section: Themes
 Description: A theme with beautiful glass icons! For rootful devices only.
 Author: Kota
 Name: Koatzy
+
+Package: online.transrights.pinkclock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Kota
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: Files/pinkclock/online.transrights.pinkclock_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 4276
+MD5sum: 1674fdfe737f0aa7970d3d27c49454e7
+SHA1: 097373ca8d5168da384d5c4453da3d4ce5cab351
+SHA256: f32ce868ff7f38ad9af5a8ecd9c92298a7e19bce2f9b5958c9b2049573c81ebd
+Section: Tweaks
+Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
+Author: Kota
+Name: PinkClock
