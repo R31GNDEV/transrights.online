@@ -33,11 +33,11 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Kota & Snoolie
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: Files/pinkclock/online.transrights.pinkclock_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 4276
-MD5sum: 1674fdfe737f0aa7970d3d27c49454e7
-SHA1: 097373ca8d5168da384d5c4453da3d4ce5cab351
-SHA256: f32ce868ff7f38ad9af5a8ecd9c92298a7e19bce2f9b5958c9b2049573c81ebd
+Filename: Files/pinkclock/online.transrights.pinkclock_1.0.0_iphoneos-arm64.deb
+Size: 3492
+MD5sum: 0fac1f63b028e939d5f6c2531226e5a6
+SHA1: f757f7d2ff23b6b2e4326cfa22b8f185822ce244
+SHA256: 7250036f4b93b60a009c78779c991b679012b8de11002b52383f6aa15e7cab16
 Section: Tweaks
 Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
 Author: Kota
@@ -48,11 +48,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Kota & Snoolie
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: Files/pinkclockrootful/online.transrights.pinkclock_1.0.0-3+debug_iphoneos-arm.deb
-Size: 4116
-MD5sum: 9682747dcfab3fc2aa164342791dda99
-SHA1: dac79c5b66a72479c855208e1dfa6e2c588ff057
-SHA256: de217649d40238c91fea5c031c8322eb9a4f10f685965fc7c9347a6c55992cf0
+Filename: Files/pinkclockrootful/online.transrights.pinkclock_1.0.0_iphoneos-arm.deb
+Size: 3430
+MD5sum: c9d63a7d31f6210489d281669defb2f3
+SHA1: 310338031a1150efc34fd6c13dd6f783aa5773c3
+SHA256: 01e7af9ea0105545dcb2b8ce71a4fc19a901838827bbe3de85bb041c12d13857
 Section: Tweaks
 Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
 Author: Kota
