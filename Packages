@@ -42,3 +42,18 @@ Section: Tweaks
 Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
 Author: Kota
 Name: PinkClock
+
+Package: online.transrights.pinkclock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kota & Snoolie
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: Files/pinkclockrootful/online.transrights.pinkclock_1.0.0-3+debug_iphoneos-arm.deb
+Size: 4116
+MD5sum: 9682747dcfab3fc2aa164342791dda99
+SHA1: dac79c5b66a72479c855208e1dfa6e2c588ff057
+SHA256: de217649d40238c91fea5c031c8322eb9a4f10f685965fc7c9347a6c55992cf0
+Section: Tweaks
+Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
+Author: Kota
+Name: PinkClock
