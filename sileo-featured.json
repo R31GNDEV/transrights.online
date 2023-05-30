@@ -4,6 +4,12 @@
   "itemCornerRadius": 12,
   "banners": [
     {
+      "url": "https://ptb.discord.com/channels/@me/1079186500161376296/1112924963784097843",
+      "title": "Glowie! :3",
+      "package": "online.transrights.glow",
+      "hideShadow": false
+    },
+    {
       "url": "https://media.discordapp.net/attachments/1063275397954928720/1109552393705771088/icon.png",
       "title": "Koatzy",
       "package": "online.transrights.koatzy",
