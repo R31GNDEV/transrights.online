@@ -1,33 +1,3 @@
-Package: online.transrights.koatzy
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Kota
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: Files/koatzy/Koatzy.deb
-Size: 75438268
-MD5sum: c32331d8431f3c5b51d73ab2a67ee82d
-SHA1: a0723c6a8e27e0704b34bd2e5f022e64e732ff7f
-SHA256: 2815574d3f7d721a2d47da69fda7b6ba9f340506ab2551476dcdbdd8389739a1
-Section: Themes
-Description: A theme with beautiful glass icons! For rootless devices only.
-Author: Kota
-Name: Koatzy
-
-Package: online.transrights.koatzyrootful
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Kota
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: Files/koatzyrootful/KoatzyRootful.deb
-Size: 79207056
-MD5sum: 381173a6c650f74eec8e18ca4d274913
-SHA1: 95158ddd969cc0fe45cce0106e7b14f9da118c1b
-SHA256: 2799f505cf8f05fe82aabe70633cd26040136dcd72cf5c9e8a539e41f13f43bb
-Section: Themes
-Description: A theme with beautiful glass icons! For rootful devices only.
-Author: Kota
-Name: Koatzy
-
 Package: online.transrights.pinkclock
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -40,7 +10,7 @@ SHA1: f757f7d2ff23b6b2e4326cfa22b8f185822ce244
 SHA256: 7250036f4b93b60a009c78779c991b679012b8de11002b52383f6aa15e7cab16
 Section: Tweaks
 Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
-Author: Kota
+Author: Kota & Snoolie
 Name: PinkClock
 
 Package: online.transrights.pinkclock
@@ -70,7 +40,7 @@ SHA1: e4fbbd58e1eb8d558bcd21e3a815f8020c922aa7
 SHA256: 1230ba637845df82a52736dface5dda0911b341cd6cb202e3b457d4b66fad3a1
 Section: Tweaks
 Description: Make your labels glow!
-Author: Kota
+Author: Kota & Snoolie & Mineek
 Name: Glowie
 
 Package: online.transrights.glow
@@ -85,5 +55,37 @@ SHA1: fbb68b2fe70d0e1bab756d462db1bface2d693c5
 SHA256: db13744d0d7c669ec6780e10416aa00eb0c89357b888ef8a5bddadb4e6bf7317
 Section: Tweaks
 Description: Make your labels glow!
-Author: Kota
+Author: Kota & Snoolie & Mineek
 Name: Glowie
+
+Package: online.transrights.kattery
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Kota & Snoolie
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/kattery/online.transrights.glow_1.0.0_iphoneos-arm64.deb
+Size: 333958
+MD5sum: e4792f5734dcaa9067b1045cdd38eb9a
+SHA1: f8a07427cf1171d7a3b80addee3ce4ba7606be67
+SHA256: 4409f4bdf5421d47c0a737ec023b658651eb94f77f9a161b309712870312de63
+Section: Tweaks
+Description: Make your wifi, cellular, and battery glow!
+Author: Kota & Snoolie
+Name: Kattery! :3
+Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
+
+Package: online.transrights.kattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kota & Snoolie
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/katteryrootful/online.transrights.pinkclock_1.0.0_iphoneos-arm.deb
+Size: 333918
+MD5sum: ef41c32c684b59ead8062bb02e142db2
+SHA1: 7bb16224a25c533bab6532995c57048b55d2b870
+SHA256: 15d9eeece76c3f6913cef6fab3cb4cc91e554858cee23939222970ee6d8360e8
+Section: Tweaks
+Description: Make your labels glow!
+Author: Kota & Snoolie
+Name: Kattery! :3
+Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
