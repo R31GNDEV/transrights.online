@@ -72,7 +72,6 @@ Section: Tweaks
 Description: Make your wifi, cellular, and battery glow!
 Author: Kota & Snoolie
 Name: Kattery! :3
-Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
 
 Package: online.transrights.kattery
 Version: 1.0
@@ -88,4 +87,3 @@ Section: Tweaks
 Description: Make your labels glow!
 Author: Kota & Snoolie
 Name: Kattery! :3
-Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
