@@ -63,7 +63,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Kota & Snoolie
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
-Filename: Files/kattery/online.transrights.glow_1.0.0_iphoneos-arm64.deb
+Filename: Files/kattery/online.transrights.kattery_1.0.0_iphoneos-arm64.deb
 Size: 333958
 MD5sum: e4792f5734dcaa9067b1045cdd38eb9a
 SHA1: f8a07427cf1171d7a3b80addee3ce4ba7606be67
@@ -72,13 +72,14 @@ Section: Tweaks
 Description: Make your wifi, cellular, and battery glow!
 Author: Kota & Snoolie
 Name: Kattery! :3
+Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
 
 Package: online.transrights.kattery
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Kota & Snoolie
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
-Filename: Files/katteryrootful/online.transrights.pinkclock_1.0.0_iphoneos-arm.deb
+Filename: Files/katteryrootful/online.transrights.kattery_1.0.0_iphoneos-arm.deb
 Size: 333918
 MD5sum: ef41c32c684b59ead8062bb02e142db2
 SHA1: 7bb16224a25c533bab6532995c57048b55d2b870
@@ -87,3 +88,4 @@ Section: Tweaks
 Description: Make your labels glow!
 Author: Kota & Snoolie
 Name: Kattery! :3
+Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
