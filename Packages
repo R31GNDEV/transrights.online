@@ -1,91 +1,159 @@
 Package: online.transrights.pinkclock
-Version: 1.0
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Kota & Snoolie
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: Files/pinkclock/online.transrights.pinkclock_1.0.0_iphoneos-arm64.deb
-Size: 3492
-MD5sum: 0fac1f63b028e939d5f6c2531226e5a6
-SHA1: f757f7d2ff23b6b2e4326cfa22b8f185822ce244
-SHA256: 7250036f4b93b60a009c78779c991b679012b8de11002b52383f6aa15e7cab16
-Section: Tweaks
-Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/pinkclock/online.transrights.pinkclock_1.0.2_iphoneos-arm64.deb
+Size: 19494
+MD5sum: d9d95293e48057e03bed230016926671
+SHA1: 8a57120cf838e481624fa62907105690274ef60b
+SHA256: 564e15c798fce04e83f83967536937fde47d8aca132bd2820757f1e5365994ca
+Section: Tweaks (based, fr)
+Description: A Simple iOS tweak written in OBJ-C to change the color & shadow of your clock in the Status Bar!
 Author: Kota & Snoolie
-Name: PinkClock
+Name: PinkClock (Rootless)
+Icon: https://cdn.discordapp.com/attachments/1083531040397721711/1117684026698903592/icon2x.png
 
 Package: online.transrights.pinkclock
-Version: 1.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Kota & Snoolie
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: Files/pinkclockrootful/online.transrights.pinkclock_1.0.0_iphoneos-arm.deb
-Size: 3430
-MD5sum: c9d63a7d31f6210489d281669defb2f3
-SHA1: 310338031a1150efc34fd6c13dd6f783aa5773c3
-SHA256: 01e7af9ea0105545dcb2b8ce71a4fc19a901838827bbe3de85bb041c12d13857
-Section: Tweaks
-Description: A Simple iOS tweak written in OBJ-C to change the color of your clock in the Status Bar!
-Author: Kota
-Name: PinkClock
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/pinkclockrootful/online.transrights.pinkclock_1.0.2_iphoneos-arm.deb
+Size: 19480
+MD5sum: f3e9b471ba51b3f558ef374a19c4d051
+SHA1: 67ae8da4e2f8e0971cfb5ae57e6eba119e288acc
+SHA256: 2a6d31951863819bb7e6d04c9e745cc7de85fa6799f322f16cf045a17efdf3c1
+Section: Tweaks (based, fr)
+Description: A Simple iOS tweak written in OBJ-C to change the color & shadow of your clock in the Status Bar!
+Author: Kota & Snoolie
+Name: PinkClock  (Rootful)
+Icon: https://cdn.discordapp.com/attachments/1083531040397721711/1117684026698903592/icon2x.png
 
 Package: online.transrights.glow
-Version: 1.0
+Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: Kota & Snoolie & Mineek
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
-Filename: Files/glowierootful/online.transrights.glow_1.0.0_iphoneos-arm.deb
-Size: 914718
-MD5sum: 6a49d2ee3790164714ffae615894bf95
-SHA1: e4fbbd58e1eb8d558bcd21e3a815f8020c922aa7
-SHA256: 1230ba637845df82a52736dface5dda0911b341cd6cb202e3b457d4b66fad3a1
-Section: Tweaks
-Description: Make your labels glow!
+Filename: Files/glowierootful/online.transrights.glow_1.5.0_iphoneos-arm.deb
+Size: 914870
+MD5sum: 6a81d0acb5ebc0b847da1b00de7d2e64
+SHA1: f9635693aa5cc9b1b7b2e48fbe34ab87e4503896
+SHA256: 6345bcc19053393d76f2b0b4623dda8234ef4c56d80a82494cab3eb058c2d71d
+Section: Tweaks (based, fr)
+Description: Make your Springboard labels glow!
 Author: Kota & Snoolie & Mineek
-Name: Glowie
+Name: Glowie  (Rootful)
+Icon: https://cdn.discordapp.com/attachments/1083531040397721711/1117684428286742568/icon2x.png
 
 Package: online.transrights.glow
-Version: 1.0
+Version: 1.5.0
 Architecture: iphoneos-arm64
 Maintainer: Kota & Snoolie & Mineek
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
-Filename: Files/glowie/online.transrights.glow_1.0.0_iphoneos-arm64.deb
-Size: 914680
-MD5sum: 49d8d7cbc91e1ccc039672a9f3ca85c6
-SHA1: fbb68b2fe70d0e1bab756d462db1bface2d693c5
-SHA256: db13744d0d7c669ec6780e10416aa00eb0c89357b888ef8a5bddadb4e6bf7317
-Section: Tweaks
-Description: Make your labels glow!
+Filename: Files/glowie/online.transrights.glow_1.5.0_iphoneos-arm64.deb
+Size: 914942
+MD5sum: 1d9d356b43ba5a2863a82a1377a82e81
+SHA1: b3b6d48dba5578d4d43db81086af12436465c596
+SHA256: 6bf81c9da34eb56e3248eced5dcc37879df7c127af518a6a1f0a32ccaa931047
+Section: Tweaks (based, fr)
+Description: Make your Springboard labels glow!
 Author: Kota & Snoolie & Mineek
-Name: Glowie
+Name: Glowie (Rootless)
+Icon: https://cdn.discordapp.com/attachments/1083531040397721711/1117684428286742568/icon2x.png
 
 Package: online.transrights.kattery
-Version: 1.0
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: Kota & Snoolie
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
-Filename: Files/kattery/online.transrights.kattery_1.0.0_iphoneos-arm64.deb
-Size: 333958
-MD5sum: e4792f5734dcaa9067b1045cdd38eb9a
-SHA1: f8a07427cf1171d7a3b80addee3ce4ba7606be67
-SHA256: 4409f4bdf5421d47c0a737ec023b658651eb94f77f9a161b309712870312de63
-Section: Tweaks
+Filename: Files/kattery/online.transrights.kattery_1.2.0_iphoneos-arm64.deb
+Size: 335224
+MD5sum: ad6a44a0c1c9a9629c7efd4d8e992888
+SHA1: fdd66f2072bd1015578cf3cb7fca22b00db45bc5
+SHA256: 25f7d94287060dee3d072d399b8da6c86e362df455bbea75ac9b71587a8f9a63
+Section: Tweaks (based, fr)
 Description: Make your wifi, cellular, and battery glow!
 Author: Kota & Snoolie
-Name: Kattery! :3
+Name: Kattery! :3 (Rootless)
 Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
 
 Package: online.transrights.kattery
-Version: 1.0
+Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: Kota & Snoolie
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
-Filename: Files/katteryrootful/online.transrights.kattery_1.0.0_iphoneos-arm.deb
-Size: 333918
-MD5sum: ef41c32c684b59ead8062bb02e142db2
-SHA1: 7bb16224a25c533bab6532995c57048b55d2b870
-SHA256: 15d9eeece76c3f6913cef6fab3cb4cc91e554858cee23939222970ee6d8360e8
-Section: Tweaks
-Description: Make your labels glow!
+Filename: Files/katteryrootful/online.transrights.kattery_1.2.0_iphoneos-arm.deb
+Size: 334768
+MD5sum: b558893ea09fd205d979bec86355a3d7
+SHA1: 26a222a03d60216e59783fce6145ada21be3e32f
+SHA256: b8dcff2999dda5f772efe00ef040ce38ce3f3d84dd53856b9567c2891dac0983
+Section: Tweaks (based, fr)
+Description: Make your wifi, cellular, and battery glow!
 Author: Kota & Snoolie
-Name: Kattery! :3
+Name: Kattery! :3 (Rootful)
 Icon: https://raw.githubusercontent.com/R31GNDEV/Kattery/main/katteryprefs/Resources/icon%402x.png
+
+Package: online.transrights.dialate
+Version: 1.1.0meow
+Architecture: iphoneos-arm64
+Maintainer: Kota
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/dialate/online.transrights.dialate_1.1.0meow_iphoneos-arm64.deb
+Size: 16936
+MD5sum: e88fddb1f072a1d971cc673a0d02d3e8
+SHA1: e9b03d4918ca2f7daa484bf049a14baa74905295
+SHA256: 7d15e2063bc23a9aa5e2c9f4fc92f9ff5f07fe2c245377894cba86ed25b2c604
+Section: Tweaks (based, fr)
+Description: Change the Dock Colors & Add some Shadow!
+Author: Kota
+Name: Dialate (Rootless)
+Icon: https://raw.githubusercontent.com/R31GNDEV/Dialate/master/dialprefs/Resources/icon%402x.png
+
+Package: online.transrights.dialate
+Version: 1.1.0meow
+Architecture: iphoneos-arm
+Maintainer: Kota
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/dialaterootful/online.transrights.dialate_1.1.0meow_iphoneos-arm.deb
+Size: 16904
+MD5sum: b7428a768203a07f8a9bb045c9c3b55a
+SHA1: 9609f9224adc7712d578ec68bbd698b5ce3d8728
+SHA256: 409049cea74e603aa80c393a80138ccba831698ec35ab606492428aee46525f6
+Section: Tweaks (based, fr)
+Description: Change the Dock Colors & Add some Shadow!
+Author: Kota
+Name: Dialate (Rootful)
+Icon: https://raw.githubusercontent.com/R31GNDEV/Dialate/master/dialprefs/Resources/icon%402x.png
+
+Package: online.transrights.vol15
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Kota & Snoolie
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/vol15rootful/online.transrights.vol15_1.0.0_iphoneos-arm.deb
+Size: 20228
+MD5sum: 6954be0e6deb51286d3c2c573b10286d
+SHA1: 878133325aa8563d35f0c127064bb469e2cfaefa
+SHA256: f9ba59144f48c13823dffa104b7882e4265b5f947fb3cb73ee02ebc33b7e505d
+Section: Tweaks (based, fr)
+Description: Change your volume UI colors & more!
+Author: Kota & Snoolie
+Name: Vol15 (Rootful)
+Icon: https://raw.githubusercontent.com/R31GNDEV/Vol15/master/vol15prefs/Resources/icon%402x.png
+
+Package: online.transrights.vol15
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Kota
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: Files/vol15/online.transrights.vol15_1.0.0_iphoneos-arm64.deb
+Size: 20270
+MD5sum: 7c40b480c08e500ddaa1fb2b9e1c206e
+SHA1: c4a322982047a2752b6382032b53b1a65885b517
+SHA256: 0ddd3d871f5910e85071ea5becfa443247c5e7a11fa57cfbc18ef665cd3dbb88
+Section: Tweaks (based, fr)
+Description: Change your volume UI colors & more!
+Author: Kota
+Name: Vol15 (Rootless)
+Icon: https://raw.githubusercontent.com/R31GNDEV/Vol15/master/vol15prefs/Resources/icon%402x.png
