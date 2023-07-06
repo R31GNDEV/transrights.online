@@ -1,4 +1,7 @@
+<img src="./CydiaIcon.png" style="center" alt="Preview" /> 
+
 # transrights.online
+
 Official arm64/arm64e Jailbreak Repo for iOS 13+
 
 https://transrights.online
