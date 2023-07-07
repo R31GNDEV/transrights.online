@@ -18,4 +18,6 @@ A Simple iOS tweak written in OBJ-C to change the color & shadow of your clock i
 - Vol15 ``1.0.0``
 Change your volume UI colors & more!
 
+# Trans Rights are Human Rights
+
 ### Still being updated.
